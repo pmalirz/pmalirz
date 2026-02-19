@@ -28,6 +28,7 @@ While I love exploring everything, my main focus currently revolves around:
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/przemyslawmalirz/)
+- 🐦 [Twitter](https://x.com/pmalirz)
 - 📧 Email: `p.malirz@gmail.com`
 
 ---
