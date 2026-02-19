@@ -25,6 +25,17 @@ While I love exploring everything, my main focus currently revolves around:
 - ☁️ **Cloud & DevOps**: `OpenShift`, `Docker`, `DevSecOps`, `Kafka`, `Async/Reactive Systems`
 - 🧠 **Current Obsession**: `AI / ML / LLM`, `Agentic Approaches (MCP)`
 
+## 📌 Featured Repositories
+
+- [twilight-and-sunrise](https://github.com/pmalirz/twilight-and-sunrise) - Architecture patterns distilled into clear "twilight" and "sunrise" approaches.
+- [editorjs-mentions](https://github.com/pmalirz/editorjs-mentions) - Powerful Editor.js mentions plugin with autocomplete and robust ID-based serialization.
+- [dlock](https://github.com/pmalirz/dlock) - Simple distributed locking using your existing database as the backbone.
+- [atlas](https://github.com/pmalirz/atlas) - Developer-centric low-code platform for rich, data-driven business apps.
+- [microfrontend-showcase](https://github.com/pmalirz/microfrontend-showcase) - Real-world microfrontends plus Spring Boot microservices across modern build stacks.
+- [cryptohub-console](https://github.com/pmalirz/cryptohub-console) - Practical console for cryptocurrency transactions and tax workflows.
+- [mongo-singlenode-replicaset-docker](https://github.com/pmalirz/mongo-singlenode-replicaset-docker) - Ready-to-run MongoDB single-node replica set setup in Docker.
+- [infinispan-oracle-docker](https://github.com/pmalirz/infinispan-oracle-docker) - Infinispan + Oracle integration packaged for fast local experimentation.
+
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/przemyslawmalirz/)
