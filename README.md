@@ -27,6 +27,8 @@ Currently, I'm diving deep into **AI** 🤖 and **Agentic Workflows**, exploring
 
 🤝 I'm always open to making new connections and taking on interesting challenges. **Let's connnect!**
 
+> ✨ **P.S. Take a look how cool is that Three.js particles background:** [pmalirz.github.io](https://pmalirz.github.io/) :-)
+
 ## 📌 Featured Repositories
 
 - **[twilight-and-sunrise](https://github.com/pmalirz/twilight-and-sunrise)** Architecture patterns distilled into clear "twilight" and "sunrise" approaches.
